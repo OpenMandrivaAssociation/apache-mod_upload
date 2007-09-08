@@ -6,7 +6,7 @@
 Summary:	Mod_upload is a DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	0
-Release:	%mkrel 3
+Release:	%mkrel 4
 Group:		System/Servers
 License:	GPL
 URL:		http://apache.webthing.com/mod_upload/
