@@ -9,7 +9,7 @@ Version:	0
 Release:	14
 Group:		System/Servers
 License:	GPL
-URL:		http://apache.webthing.com/mod_upload/
+URL:		https://apache.webthing.com/mod_upload/
 # there is no official tar ball
 # http://apache.webthing.com/svn/apache/forms/mod_upload.c
 Source0:	http://apache.webthing.com/svn/apache/filters/xmlns/mod_upload.c
